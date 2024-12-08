@@ -1,0 +1,12 @@
+.venv
+.vscode
+__pycache__
+.pytest_cache
+config.py
+token.json
+credentials.json
+data/*txt
+data/*db
+.env
+muuttujat.py
+*ics

@@ -1,0 +1,8 @@
+ATLAS_URI="mongodb+srv://<username>:<password>@sandbox.lqlql.mongodb.net/?retryWrites=true&w=majority"
+WILMA_URL="wilman soite yleensä .inschool.fi loppuinen"
+WILMA_LOGIN="kayttajatunnus"
+WILMA_PASSWORD="salasana"
+WILMA_STUDENT="Etunimi Sukunimi"
+WILMA_STUDENTS="Etunimi Sukunimi,Etunimi Sukunimi"
+LOGIN_ROUTE = "/login"
+COOKIE="Wilma2LoginID"
